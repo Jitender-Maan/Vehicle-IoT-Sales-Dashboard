@@ -47,4 +47,4 @@ IoT Revenue Share % = ROUND(DIVIDE([IoT Revenue], [Total Revenue]) * 100, 1) / 1
 
 ## Author
 Jitender | MIS Executive → Data Analyst
-Data Analyst Portfolio | 2026
+| Data Analyst Portfolio | 2026
