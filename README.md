@@ -43,7 +43,7 @@ IoT Revenue Share % = ROUND(DIVIDE([IoT Revenue], [Total Revenue]) * 100, 1) / 1
 ```
 
 ## Dashboard Preview
-![Dashboard](Vehicle IoT Sales Dashboard.jpeg)
+![Dashboard] (Vehicle IoT Sales Dashboard.jpeg)
 
 ## Author
 Jitender | MIS Executive → Data Analyst
